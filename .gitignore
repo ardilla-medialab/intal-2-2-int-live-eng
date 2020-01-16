@@ -1,3 +1,6 @@
 .idea
 deploy.sh
 assets/scripts/
+webpack.config.js
+package-lock.json
+dist/scripts.js
